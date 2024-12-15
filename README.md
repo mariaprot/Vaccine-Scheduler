@@ -1,1 +1,1 @@
-# Vaccine-Scheduler
+# vaccine-scheduler-java
